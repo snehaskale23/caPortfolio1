@@ -1,0 +1,1 @@
+This project gives you things to do when you are bored. It by default gives you 3 levels. One for when you are extremely bored, one for when you need entertainment and one general task. Run via "node index.js" and you shall never be bored again!
